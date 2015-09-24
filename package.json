@@ -1,0 +1,26 @@
+{
+  "name": "Expressionism",
+  "version": "0.0.1",
+  "description": "A set of utility functions for regular expressions and patterns",
+  "keywords": ["regex", "regexp", "expression", "pattern"],
+  "author": "Katie Fenn (http://www.katiefenn.co.uk)",
+  "maintainers": [{
+    "name": "Katie Fenn",
+    "email": "katie.fenn@googlemail.com",
+    "web": "http://www.katiefenn.co.uk"
+  }],
+  "main": "expressionism.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0"
+  },
+  "license": "MIT"
+}

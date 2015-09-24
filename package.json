@@ -1,5 +1,5 @@
 {
-  "name": "Expressionism",
+  "name": "expressionism",
   "version": "0.0.1",
   "description": "A set of utility functions for regular expressions and patterns",
   "keywords": ["regex", "regexp", "expression", "pattern"],

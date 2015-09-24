@@ -15,3 +15,9 @@ A set of utility functions for regular expressions and patterns
 ### word
 ### digit
 ### space
+
+## TODO
+- Better type checking
+- Performance profiling
+- Docs
+- Grouping
